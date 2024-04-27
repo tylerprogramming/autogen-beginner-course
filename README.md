@@ -2,4 +2,6 @@
 
 - install pycharm community edition ide (if you don't have one)
 - install anaconda (if you don't want to use venv)
-- Reddit project is bonus, try it ou!
+- Reddit project is bonus, try it out!
+
+Join my [Discord](https://discord.gg/Db6e8KkHww) community for any questions!
