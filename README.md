@@ -1,6 +1,8 @@
 ## AutoGen Beginner Course
 
 > **Legacy code (2024).** This course was recorded on AutoGen 0.2 (`pyautogen==0.2.26`) and the code is kept as it appears in the videos. Several models it uses have since been shut down, so those lessons fail with `model_not_found` until you change the model name. See [Models used in this course were retired](#models-used-in-this-course-were-retired).
+>
+> The AutoGen 0.2 line is now maintained as [AG2](https://docs.ag2.ai/) (`pip install ag2`); this course still pins the original `pyautogen` package.
 
 - install pycharm community edition ide (if you don't have one)
 - install anaconda (if you don't want to use venv)
