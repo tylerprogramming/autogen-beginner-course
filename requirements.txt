@@ -22,8 +22,8 @@ packaging==24.0
 pandas==2.2.2
 pillow==10.3.0
 pyautogen==0.2.26
-pydantic==2.7.1
-pydantic_core==2.18.2
+pydantic==2.7.4
+pydantic_core==2.18.4
 pygame==2.5.2
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0

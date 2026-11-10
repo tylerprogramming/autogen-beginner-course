@@ -17,6 +17,8 @@ Use Python 3.11 or 3.12: `pyautogen==0.2.26` requires Python below 3.13, and the
 
 Bonus Project Reddit URL: [Create App](https://old.reddit.com/prefs/apps/)
 
+The Reddit project needs two extra packages (`langchain-community` and `praw`). Install them from the repo root with `pip install -r 14-reddit-newsletter/requirements.txt`, which also installs the course requirements.
+
 ## Models used in this course were retired
 
 The substitutes are the ones listed on the [OpenAI deprecations page](https://developers.openai.com/api/docs/deprecations):
