@@ -7,7 +7,7 @@ contourpy==1.2.1
 cycler==0.12.1
 diskcache==5.6.3
 distro==1.9.0
-docker==7.0.0
+docker==7.1.0
 FLAML==2.1.2
 fonttools==4.51.0
 h11==0.16.0
