@@ -13,7 +13,7 @@ fonttools==4.51.0
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.27.0
-idna==3.7
+idna==3.20
 kiwisolver==1.4.5
 matplotlib==3.8.4
 numpy==1.26.4
